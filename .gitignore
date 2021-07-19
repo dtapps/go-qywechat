@@ -1,0 +1,7 @@
+.env
+.git
+.svn
+.idea
+.vscode
+gittag.sh
+*_test.go
