@@ -20,7 +20,6 @@
 [![tags](https://badgen.net/github/tags/dtapps/go-qywechat)](https://github.com/dtapps/go-qywechat/tags)
 [![license](https://badgen.net/github/license/dtapps/go-qywechat)](https://github.com/dtapps/go-qywechat/blob/master/LICENSE)
 [![GitHub go.mod Go version (subdirectory of monorepo)](https://img.shields.io/github/go-mod/go-version/dtapps/go-qywechat)](https://github.com/dtapps/go-qywechat)
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/dtapps/go-qywechat)](https://github.com/dtapps/go-qywechat/releases)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/dtapps/go-qywechat)](https://github.com/dtapps/go-qywechat/tags)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dtapps/go-qywechat)](https://github.com/dtapps/go-qywechat)
 [![GitHub language count](https://img.shields.io/github/languages/count/dtapps/go-qywechat)](https://github.com/dtapps/go-qywechat)
