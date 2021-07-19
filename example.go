@@ -1,13 +1,13 @@
 package qywechat
 
 import (
+	"github.com/dtapps/go-qywechat/qywechat"
 	"github.com/dtapps/go-qywechat/qywechat/message"
 	"log"
-	"testing"
 )
 
-func main(t *testing.T) {
-	bot := QyBot{
+func main() {
+	bot := qywechat.QyBot{
 		Key: "",
 	}
 	msg := message.Message{

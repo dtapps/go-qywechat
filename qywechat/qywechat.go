@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"github.com/dtapps/go-qywechat/qywechat/message"
 	"io/ioutil"
-	"log"
 	"net/http"
 	"strings"
 )
@@ -31,8 +30,6 @@ func (bot *QyBot) Send(msg message.Message) (response, error) {
 	if e != nil {
 		return response, e
 	}
-	log.Printf("qyUrl：%v\n", qyUrl)
-	log.Printf("msg：%v\n", msg)
 	resp, e := http.Post(qyUrl, "application/json", strings.NewReader(string(j)))
 	if e != nil {
 		return response, e
